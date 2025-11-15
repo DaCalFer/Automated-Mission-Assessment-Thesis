@@ -8,7 +8,7 @@ A 6-month Master's Thesis project in collaboration with Airbus, developing a Mac
 ---
 
 ### 1. The Problem (Business Understanding)
-The manual *debriefing* process for military missions is "tedious and complex," time-consuming, and difficult to scale with the increasing amount of data from flight recorders[cite: 18, 25, 49]. [cite_start]The objective was to design and prove the feasibility of an automated tool using Machine Learning to assess missions, reducing time and cost.
+The manual *debriefing* process for military missions is "tedious and complex," time-consuming, and difficult to scale with the increasing amount of data from flight recorders. The objective was to design and prove the feasibility of an automated tool using Machine Learning to assess missions, reducing time and cost.
 
 ### 2. The Solution (My Methodology)
 I designed a hierarchical ML model that breaks the complex problem ("Was the mission successful?") into a chain of simpler, manageable classification problems.
